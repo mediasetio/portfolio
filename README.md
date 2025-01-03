@@ -1,7 +1,4 @@
-# portfolio
-Portfolio of Sample Deliverables
 ## Table of Contents
-
 
 **MSFT WWLP**
 This flowchart represents the WWLP S+S Future State Business Process for Planning & Execution - Stage 2, focusing on managing service capability delivery. It outlines the sequence of activities and decision points required to prioritize, develop, and deliver service capabilities effectively.  
